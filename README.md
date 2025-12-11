@@ -4,10 +4,6 @@
 1. Run MainServer.java
 2. Run Application.java
 
-## Student Submission List:
-1. Jaden Ye - Submitted Report on Brightspace.
-2. Pablo Yague - Submitted Vocareum workspace.
-
 ## Class Description List:
 ### Application.java:
 **Overview:**
